@@ -1,5 +1,5 @@
 """
-This example shows how to combine customers and orders.
+This example shows how to sum ordem items.
 """
 
 import apache_beam as beam
